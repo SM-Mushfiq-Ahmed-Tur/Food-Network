@@ -20,11 +20,35 @@ body {
     margin-top: -200px;
 }
 
+.Half-Width2 img {
+    width: 47%;
+    padding-left: 170px;
+    padding-top: 40px;
+}
+
+.Middle-Part {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 1950px;
+    margin: 0;
+    padding-right: 50px;
+}
+
+.Middle-Part h1 {
+    padding-top: 70px;
+}
+
+.Middle-Part p {
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
 p {
     font-size: 25px;
     margin-left: 60px;
     margin-bottom: 50px;
     margin-top: 50px;
+    padding-bottom: 30px;
 }
 
 .Perfect {
