@@ -26,6 +26,50 @@ body {
     padding-top: 40px;
 }
 
+.My-recipes {
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.Recipe {
+    text-align: left;
+    width: 33%;
+    border: 20px solid;
+    border-radius: 50px;
+    margin-left: 100px;
+    border-color: white;
+    box-shadow: 0 0 30px lightgray;
+    margin-right: 100px;
+    margin-bottom: 150px;
+}
+
+.Recipe p {
+    padding-left: 30px;
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.Recipeo {
+    margin-left: 30px;
+}
+
+.Recipe img {
+    width: 100%;
+}
+
+.Recipe h1 {
+    font-size: 40px;
+    padding-left: 30px;
+    padding-bottom: -30px;
+}
+
+.My-recipes h2 {
+    font-size: 80px;
+    color: gray;
+}
+
 .Middle-Part {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
@@ -43,7 +87,7 @@ body {
     padding-right: 50px;
 }
 
-p {
+.Top-Part p {
     font-size: 25px;
     margin-left: 60px;
     margin-bottom: 50px;
@@ -59,7 +103,7 @@ p {
     margin-top: -70px;
 }
 
-h1 {
+.Top-Part h1 {
     font-size: 90px;
     margin-left: 60px;
     font-weight: 700;
@@ -82,4 +126,49 @@ a {
 
 .Gray {
     color: rgb(105, 105, 105);
+}
+
+.Follow-Sec p {
+    font-size: 20px;
+    margin-top: -50px;
+}
+
+.Border {
+    border: 15px solid;
+    border-color: white;
+    box-shadow: 0 0 10px lightgray;
+    margin-right: 90px;
+    margin-left: 90px;
+    margin-bottom: 150px;
+    margin-top: -100px;
+}
+
+.YT {
+    margin-left: 220px;
+}
+
+.Insta {
+    margin-left: 300px;
+}
+
+.Dribbble {
+    margin-left: 300px;
+}
+
+.Follow-Sec h1 {
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.Last-Sec {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    background-color: rgb(1, 1, 31);
+}
+
+.Last-Sec p {
+    font-size: 20px;
+    color: white;
+    padding-bottom: 70px;
 }
